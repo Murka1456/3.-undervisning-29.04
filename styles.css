@@ -4,3 +4,8 @@ body{
     /* /css Rule Propety:value */
     background-color:lightcyan;
 }
+
+header {
+display:flex;
+align-items: center ;
+}
